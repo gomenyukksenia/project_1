@@ -1,1 +1,1 @@
-print ("hello")
+print ("it`s pretty cool")
