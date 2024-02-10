@@ -1,1 +1,1 @@
-print ("it`s pretty cool")
+print("it`s pretty cool")
